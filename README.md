@@ -1,4 +1,4 @@
-# Addis Legesse Adere
+# ADDIS LEGESSE
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExand6am51ZGdqbHlxbDF1NDRqYmFjdG5rcndvbmN1MHppb2RiOHNhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.gif" width="600" height="300" />
 </p>
